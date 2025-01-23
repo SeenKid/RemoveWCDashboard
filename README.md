@@ -1,2 +1,2 @@
 # RemoveWCDashboard
-Remove woocommerce dashbnoard without removing login
+Remove woocommerce dashboard without removing login
