@@ -4,7 +4,7 @@
  * Plugin Name: RemoveWCDashboard
  * Author: SeenKid
  * Version: 1.2
- * Description: Remove woocommerce dashbnoard without removing login
+ * Description: Remove woocommerce dashboard without removing login
  * Plugin URI: https://github.com/SeenKid/RemoveWCDashboard
  */
 
